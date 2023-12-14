@@ -1,4 +1,4 @@
-# Alfa_Hacaton_2023
+# Alfa_Hackaton_2023
 UAH_Финал_Infinity_Code
 
 
